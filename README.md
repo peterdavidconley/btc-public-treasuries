@@ -1,22 +1,18 @@
 ## BTC Public Treasuries
 
-Lorem ipsum.
+This project is a web application that compiles and publishes a list of public companies and the amount of bitcoin they have on their balance sheets.
 
 ## Motivation
 
-Lorem ipsum.
+This is one of several portfolio projects for developers looking to get into the bitcoin space.
 
 ## Design Specs
 
-Here is a link to a design mockup
+Here is a link to a design mockup <>
 
 ## Tech/framework used
 
 React
-
-## API Data
-
-[Public Company Treasuries](https://api.coingecko.com/api/v3/companies/public_treasury/bitcoin)
 
 ## Features
 
@@ -36,13 +32,7 @@ You may also see any lint errors in the console.
 
 ## API Reference
 
-#### Front End Deployment
-
-()
-
-#### Backend API
-
-()
+[Public Company Treasuries](https://api.coingecko.com/api/v3/companies/public_treasury/bitcoin)
 
 ## How to Use
 
