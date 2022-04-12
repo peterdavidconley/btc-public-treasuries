@@ -16,7 +16,7 @@ React
 
 ## Features
 
-Lorem ipsum.
+Youu can view and filter the top public companies that hold BTC in their treasuries.
 
 ## Project Installation
 
