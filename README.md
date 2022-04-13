@@ -4,7 +4,7 @@ This project is a web application that compiles and publishes a list of public c
 
 ## Motivation
 
-This is one of several portfolio projects for developers looking to get into the bitcoin space.
+This is one of several portfolio projects for developers looking to get into the bitcoin space. Help communicate how widely adopted bitcoin is by showing how many public companies, and in what quantities, are holding BTC on their balance sheets.
 
 ## Design Specs
 
